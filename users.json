@@ -1,7 +1,8 @@
 [
   {
     "email": "iceocp7695@gmail.com",
-    "is_active": true
+    "is_active": true,
+    "register_at": "lifeTime"
   },
   {
     "email": "richbots99@gmail.com",
@@ -9,10 +10,12 @@
   },
   {
     "email": "opathani2530@gmail.com",
-    "is_active": true
+    "is_active": true,
+    "register_at": "2025-11-17 00:00:00"
   },
   {
     "email": "domeyong3597@gmail.com",
-    "is_active": true
+    "is_active": true,
+    "register_at": "2025-11-17 00:00:00"
   }
 ]
