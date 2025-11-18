@@ -17,5 +17,10 @@
     "email": "eakalukyong@gmail.com",
     "is_active": true,
     "register_at": "2025-11-17 00:00:00"
+  },
+  {
+    "email": "Serermoon_pp@hotmail.com",
+    "is_active": true,
+    "register_at": "2025-11-18 00:00:00"
   }
 ]
